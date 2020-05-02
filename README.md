@@ -1,6 +1,6 @@
-# jironis
+# techonomics
 
-> Jironis - Vue Nuxt App Landing One Page Template
+> Techonomics - Vue Nuxt App Landing One Page Template
 
 ## Build Setup
 
